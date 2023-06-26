@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
 **KaiKimiOS/KaiKimiOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://img.shields.io/badge/swift-#F05138?style=flat&logo=이름이뭐야&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-#F05138?style=flat&logo=이름이뭐야&logoColor=white"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
