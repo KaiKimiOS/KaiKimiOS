@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%KaiKim%Github!)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20KaiKim%20Github!)
 
 
 
