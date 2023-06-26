@@ -5,6 +5,10 @@
 <img src="https://img.shields.io/badge/Swift-#F05138?style=flat&logo=이름이뭐야&logoColor=white"/>
 Here are some ideas to get you started:
 
+
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdffs310&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=sdffs310&show_icons=true">
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
