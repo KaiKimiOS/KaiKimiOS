@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdffs310@naver.com&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=KaiKimiOS0&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiKimiOS&layout=compact"><br><br>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
