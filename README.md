@@ -4,7 +4,8 @@
 **KaiKimiOS/KaiKimiOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://img.shields.io/badge/Swift-#F05138?style=flat&logo=이름이뭐야&logoColor=white"/>
 Here are some ideas to get you started:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF8F00&title_bg=%23555555&icon=&icon_color=%239D1E1E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF8F00&title_bg=%23555555&icon=&icon_color=%239D1E1E&title=hits&edge_flat=false)]((https://github.com/KaiKimiOS))
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiKimiOS&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=KaiKimiOS&show_icons=true">
