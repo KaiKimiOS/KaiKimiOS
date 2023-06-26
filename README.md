@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20KaiKim%20Github!🙂&color=auto)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20KaiKim%20Github!🙂&color=timeAuto)
 
 
 
