@@ -7,10 +7,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiKimiOS&layout=compact"><br><br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=KaiKimiOS&show_icons=true">
-
-
 [![Solved.ac
 sdffs310](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 - 🔭 I’m currently working on ...
