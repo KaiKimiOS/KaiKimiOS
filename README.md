@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=KaiKim%20Github!&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&weight=150&section=header&text=KaiKim%20Github!&fontSize=60)
 
 
 
