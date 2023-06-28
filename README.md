@@ -13,7 +13,6 @@
 sdffs310](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaiKimiOS&show_icons=true">
 
 
 </div>
