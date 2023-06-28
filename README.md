@@ -11,17 +11,15 @@
 
 3.프로그래밍 도구를 통해 세상과 인간에게 새로운 기술이 이롭게 향하도록 개발하는 사람
 
+<u>< 감명받은 Apple 광고  ></u>
 
-
-<div align=center>
 
 [![Video Label](http://img.youtube.com/vi/8sX9IEHWRJ8/0.jpg)](https://youtu.be/8sX9IEHWRJ8)
 
-<u>감명받은 Apple 광고</u>
 
 
-[![Solved.ac
+<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"><br>[![Solved.ac
 sdffs310](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
-<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+
 
 </div>
