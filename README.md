@@ -1,25 +1,33 @@
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=KaiKim%20Github!&fontSize=60)
 
-![header](https://capsule-render.vercel.app/api?type=soft&text=Welcome%20KaiKim%20Github!🙂)
+
+
+## ⭐️ Introduction
+
+개발을 즐거워하는 사람 🙂
+
+배움과 소통의 과정에서 열린 사고로 함께 올바른 방향을 찾아 문제를 해결하는 사람
+
+프로그래밍 도구를 통해 사람들의 더 나은 삶에 긍정적인 영향을 주고싶습니다. 
+
+## ✏️ Studying
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiKimiOS&layout=compact"><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=KaiKimiOS&show_icons=true">
+
+
+[![Solved.ac
+sdffs310](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 
-**KaiKimiOS/KaiKimiOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://img.shields.io/badge/Swift-#F05138?style=flat&logo=이름이뭐야&logoColor=white"/>
-Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaiKimiOS&count_bg=%23FF8500&title_bg=%23555555&icon=swift.svg&icon_color=%23FF7F00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiKimiOS&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=KaiKimiOS&show_icons=true">
-[![Solved.ac
-sdffs310](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#F05138
+
+
+</div>
