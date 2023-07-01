@@ -16,11 +16,8 @@
 
 [![Video Label](http://img.youtube.com/vi/8sX9IEHWRJ8/0.jpg)](https://youtu.be/8sX9IEHWRJ8)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sdffs310)](https://solved.ac/sdffs310)
 
-
-
-
-
-[![Solved.ac sdffs310](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdffs310)](solved.ac/profile/sdffs310)
 </div>
