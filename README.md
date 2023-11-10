@@ -20,8 +20,6 @@
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?&style=for-the-badge&logo=Swift&logoColor=white)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdffs310)](https://solved.ac/sdffs310)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sdffs310)](https://solved.ac/sdffs310)
 
 </div>
