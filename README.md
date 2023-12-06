@@ -11,12 +11,6 @@
 
 3.프로그래밍 도구를 통해 새로운 기술이 인간에게 이롭게 향하도록 개발하는 사람
 
-<u>< 감명받은 Apple 광고  ></u>
-
-
-[![Video Label](http://img.youtube.com/vi/8sX9IEHWRJ8/0.jpg)](https://youtu.be/8sX9IEHWRJ8)
-
-
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?&style=for-the-badge&logo=Swift&logoColor=white)
 
